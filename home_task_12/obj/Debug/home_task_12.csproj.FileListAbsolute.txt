@@ -1,0 +1,13 @@
+C:\VS_Projects\home_task_12\home_task_12\bin\Debug\home_task_12.exe.config
+D:\VS_projects\home_task_12\home_task_12\bin\Debug\home_task_12.exe.config
+D:\VS_projects\home_task_12\home_task_12\bin\Debug\home_task_12.exe
+D:\VS_projects\home_task_12\home_task_12\bin\Debug\home_task_12.pdb
+D:\VS_projects\home_task_12\home_task_12\obj\Debug\home_task_12.csprojResolveAssemblyReference.cache
+D:\VS_projects\home_task_12\home_task_12\obj\Debug\home_task_12.exe
+D:\VS_projects\home_task_12\home_task_12\obj\Debug\home_task_12.pdb
+D:\home_task_12\home_task_12\bin\Debug\home_task_12.exe.config
+D:\home_task_12\home_task_12\obj\Debug\home_task_12.exe
+D:\home_task_12\home_task_12\obj\Debug\home_task_12.pdb
+D:\home_task_12\home_task_12\bin\Debug\home_task_12.exe
+D:\home_task_12\home_task_12\bin\Debug\home_task_12.pdb
+D:\home_task_12\home_task_12\obj\Debug\home_task_12.csprojResolveAssemblyReference.cache
