@@ -33,10 +33,10 @@ namespace home_task_12
 
            ReadInput();
            ReadWhitelist();
-           //WhiteList();
+           WhiteList();
            ReadBlaclist();
            BlackList();
-
+           BlackWhiteList();
         }
 
         static void ReadInput()
@@ -99,6 +99,26 @@ namespace home_task_12
                     }
                 }
             Writelines(OutputBlack, forfilter);
+        }
+
+        static void BlackWhiteList()
+        {
+            for (int i = 0; i < input.Count; i++)
+            {
+                if (!black.Contains(input[i]))
+                {
+                    forfilter.Add(input[i]);
+                }
+            }
+            List<string> forfilter2 = new List<string>();
+            for (int i = 0; i < forfilter.Count; i++)
+            {
+                if (white.Contains(forfilter[i]))
+                {
+                    forfilter2.Add(forfilter[i]);
+                }
+            }
+            Writelines(OutputBoth, forfilter2);
         }
     }
 }
